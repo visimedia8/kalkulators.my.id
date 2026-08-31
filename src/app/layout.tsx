@@ -28,6 +28,7 @@ export const metadata: Metadata = {
 };
 
 import { Footer } from "@/components/ui/footer";
+import { GoogleAnalytics } from "@/components/analytics/GoogleAnalytics";
 
 export default function RootLayout({
   children,
@@ -40,6 +41,7 @@ export default function RootLayout({
       className={`${geist.variable} ${inter.variable} ${jetbrainsMono.variable} h-full antialiased dark`}
     >
       <body className="min-h-full flex flex-col font-sans bg-base text-primary">
+        <GoogleAnalytics gaId="G-WLPT61EFPG" />
         <NuqsAdapter>
           <Header />
           {children}

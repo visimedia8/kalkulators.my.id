@@ -1,0 +1,386 @@
+[
+  {
+    "title": "Kalkulator KPR (Kredit Pemilikan Rumah)",
+    "url": "/finansial/kpr",
+    "category": "Finansial & Uang",
+    "description": "Simulasi cicilan bulanan KPR dengan bunga efektif/flat"
+  },
+  {
+    "title": "Kalkulator BMI & BMR",
+    "url": "/kesehatan/bmi",
+    "category": "Kesehatan & Tubuh",
+    "description": "Hitung Indeks Massa Tubuh dan kalori basal harian"
+  },
+  {
+    "title": "Kalkulator Diskon & Harga Akhir",
+    "url": "/finansial/diskon",
+    "category": "Finansial & Uang",
+    "description": "Hitung presisi diskon tunggal, ganda, dan potongan pajak."
+  },
+  {
+    "title": "Kalkulator Pajak PPh 21",
+    "url": "/finansial/pph-21",
+    "category": "Finansial & Uang",
+    "description": "Simulasi pajak PPh 21 Karyawan (UU HPP terbaru)."
+  },
+  {
+    "title": "Kalkulator Konversi Suhu",
+    "url": "/sains/temperature",
+    "category": "Sains & Fisika",
+    "description": "Konversi Celsius, Fahrenheit, Kelvin, Reamur standar ITS-90."
+  },
+  {
+    "title": "Kalkulator HPL (Hari Perkiraan Lahir)",
+    "url": "/kesehatan/hpl",
+    "category": "Kesehatan & Tubuh",
+    "description": "Hitung usia kehamilan dan estimasi persalinan presisi."
+  },
+  {
+    "title": "Kalkulator Stunting Bayi & Balita (Z-Score)",
+    "url": "/kesehatan/stunting",
+    "category": "Kesehatan & Tubuh",
+    "description": "Hitung Z-Score TB/U standar WHO dan deteksi dini stunting."
+  },
+  {
+    "title": "Kalkulator Tetes Infus (TPM)",
+    "url": "/kesehatan/tetes-infus",
+    "category": "Kesehatan & Tubuh",
+    "description": "Kalkulasi laju aliran infus klinis (makro/mikro drip)."
+  },
+  {
+    "title": "Kalkulator eGFR & Klasifikasi Ginjal",
+    "url": "/kesehatan/gfr",
+    "category": "Kesehatan & Tubuh",
+    "description": "Estimasi fungsi ginjal menggunakan formula CKD-EPI dan MDRD."
+  },
+  {
+    "title": "Kalkulator Dosis Obat Anak (BSA)",
+    "url": "/kesehatan/dosis-anak",
+    "category": "Kesehatan & Tubuh",
+    "description": "Konversi presisi dosis dewasa ke anak menggunakan DuBois BSA."
+  },
+  {
+    "title": "Kalkulator FCR (Feed Conversion Ratio)",
+    "url": "/industri/fcr",
+    "category": "Industri & Manufaktur",
+    "description": "Hitung efisiensi pakan ternak komersial."
+  },
+  {
+    "title": "Kalkulator Pace Lari",
+    "url": "/olahraga/pace-lari",
+    "category": "Olahraga & Fitness",
+    "description": "Hitung waktu tempuh lomba dan pace lari presisi."
+  },
+  {
+    "title": "Kalkulator TDEE (Kebutuhan Kalori)",
+    "url": "/olahraga/tdee",
+    "category": "Olahraga & Fitness",
+    "description": "Hitung kalori harian presisi untuk bulking/cutting."
+  },
+  {
+    "title": "Kalkulator OEE Manufaktur",
+    "url": "/industri/oee",
+    "category": "Industri & Manufaktur",
+    "description": "Hitung efisiensi peralatan (Availability, Performance, Quality)."
+  },
+  {
+    "title": "Kalkulator Kapasitas BTU AC",
+    "url": "/properti/btu-ac",
+    "category": "Properti & Teknik",
+    "description": "Hitung kebutuhan PK AC ruangan berdasarkan standar ASHRAE."
+  },
+  {
+    "title": "Kalkulator Kemiringan Atap",
+    "url": "/properti/kemiringan-atap",
+    "category": "Properti & Teknik",
+    "description": "Hitung presisi sudut dan panjang material atap (pitch/rise/run)."
+  },
+  {
+    "title": "Kalkulator Turnover Rate Karyawan",
+    "url": "/bisnis/turnover-rate",
+    "category": "Bisnis & HRD",
+    "description": "Hitung tingkat perputaran dan retensi SDM perusahaan."
+  },
+  {
+    "title": "Kalkulator Jejak Karbon",
+    "url": "/sains/jejak-karbon",
+    "category": "Sains & Fisika",
+    "description": "Hitung emisi CO2 rumah tangga dan offset pohon presisi."
+  },
+  {
+    "title": "Kalkulator Depth of Field (DoF)",
+    "url": "/gaya-hidup/dof-kamera",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung jarak hiperfokal dan kedalaman ruang kamera presisi."
+  },
+  {
+    "title": "Kalkulator BPM ke Milidetik",
+    "url": "/gaya-hidup/bpm-to-ms",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Konversi tempo BPM ke milidetik untuk delay dan reverb audio."
+  },
+  {
+    "title": "Kalkulator Molaritas & Pengenceran Kimia",
+    "url": "/sains/molaritas",
+    "category": "Sains & Fisika",
+    "description": "Hitung presisi pengenceran larutan dan konsentrasi (V1xM1 = V2xM2)."
+  },
+  {
+    "title": "Kalkulator Kebutuhan Kain per Pola Baju",
+    "url": "/gaya-hidup/kain-baju",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung kebutuhan bahan tekstil konveksi berdasarkan pola potong."
+  },
+  {
+    "title": "Kalkulator Zakat Mal",
+    "url": "/agama/zakat-mal",
+    "category": "Agama & Kultur",
+    "description": "Hitung kewajiban zakat mal presisi standar nisab emas syariah."
+  },
+  {
+    "title": "Kalkulator Budget Itinerary Harian",
+    "url": "/travel/budget-travel",
+    "category": "Travel & Wisata",
+    "description": "Rencana anggaran presisi transportasi, hotel, dan uang saku travel."
+  },
+  {
+    "title": "Kalkulator Weton Jawa & Hari Baik",
+    "url": "/agama/weton-jawa",
+    "category": "Agama & Kultur",
+    "description": "Hitung neptu kelahiran, watak pasaran, dan kesesuaian hajatan."
+  },
+  {
+    "title": "Kalkulator Glasgow Coma Scale (GCS)",
+    "url": "/kesehatan/gcs",
+    "category": "Kesehatan & Tubuh",
+    "description": "Hitung skor tingkat kesadaran GCS secara cepat dan presisi."
+  },
+  {
+    "title": "Kalkulator Skor APGAR",
+    "url": "/kesehatan/apgar",
+    "category": "Kesehatan & Tubuh",
+    "description": "Penilaian klinis kondisi kesehatan bayi baru lahir (neonatus)."
+  },
+  {
+    "title": "Kalkulator Makro Nutrisi & Diet",
+    "url": "/kesehatan/makro-nutrisi",
+    "category": "Kesehatan & Tubuh",
+    "description": "Hitung kebutuhan kalori dan distribusi makro nutrisi (Protein, Lemak, Karbo)."
+  },
+  {
+    "title": "Kalkulator Heart Rate Zone (Karvonen)",
+    "url": "/olahraga/karvonen",
+    "category": "Olahraga & Fitness",
+    "description": "Hitung zona detak jantung latihan berdasar metode Karvonen presisi."
+  },
+  {
+    "title": "Kalkulator Masa Subur & Ovulasi",
+    "url": "/kesehatan/masa-subur",
+    "category": "Kesehatan & Tubuh",
+    "description": "Prediksi masa subur, ovulasi, dan haid selanjutnya secara presisi."
+  },
+  {
+    "title": "Kalkulator Kinematika Fisika (GLBB)",
+    "url": "/sains/kinematika-fisika",
+    "category": "Sains & Fisika",
+    "description": "Hitung kecepatan, percepatan, jarak dan waktu GLBB presisi."
+  },
+  {
+    "title": "Kalkulator Hukum Ohm & Daya",
+    "url": "/sains/hukum-ohm",
+    "category": "Sains & Fisika",
+    "description": "Hitung tegangan, arus, hambatan, dan daya listrik presisi."
+  },
+  {
+    "title": "Kalkulator Waktu Paruh Peluruhan",
+    "url": "/sains/waktu-paruh",
+    "category": "Sains & Fisika",
+    "description": "Kalkulasi kinetika peluruhan radioaktif inti atom presisi."
+  },
+  {
+    "title": "Kalkulator Punnett Square Genetik",
+    "url": "/sains/punnett-square",
+    "category": "Sains & Fisika",
+    "description": "Simulasi persilangan monohibrid & probabilitas alel genotipe."
+  },
+  {
+    "title": "Kalkulator Storage & Bitrate Video",
+    "url": "/gaya-hidup/bitrate-video",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung kebutuhan memori dan ukuran file rekaman video presisi."
+  },
+  {
+    "title": "Kalkulator Interval Timelapse",
+    "url": "/gaya-hidup/interval-timelapse",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung total frame, shutter, dan penyimpanan timelapse presisi."
+  },
+  {
+    "title": "Kalkulator ND Filter (Long Exposure)",
+    "url": "/gaya-hidup/nd-filter",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung shutter speed akhir untuk ND Filter fotografi presisi."
+  },
+  {
+    "title": "Kalkulator FoV & Crop Factor",
+    "url": "/gaya-hidup/crop-factor",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung fokal ekuivalen 35mm dan sudut pandang (FoV) presisi."
+  },
+  {
+    "title": "Kalkulator Daya Amplifier Speaker",
+    "url": "/gaya-hidup/daya-amplifier",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Kalkulasi pencocokan impedansi amplifier dan speaker audio."
+  },
+  {
+    "title": "Kalkulator Golongan Darah Genetik",
+    "url": "/kesehatan/golongan-darah",
+    "category": "Kesehatan & Tubuh",
+    "description": "Prediksi kemungkinan golongan darah anak berdasarkan pewarisan gen."
+  },
+  {
+    "title": "Kalkulator Waris Islam (Faraidh)",
+    "url": "/agama/waris-islam",
+    "category": "Agama & Kultur",
+    "description": "Hitung presisi pembagian warisan sesuai syariat Islam dan KHI."
+  },
+  {
+    "title": "Kalkulator Fidyah & Kifarat",
+    "url": "/agama/fidyah-kifarat",
+    "category": "Agama & Kultur",
+    "description": "Kalkulasi denda ibadah puasa dan sumpah berdasarkan standar baznas."
+  },
+  {
+    "title": "Kalkulator Zodiak (Sun/Moon/Rising)",
+    "url": "/agama/zodiak",
+    "category": "Agama & Kultur",
+    "description": "Hitung astrotropis The Big Three dan komposisi elemen kelahirannmu."
+  },
+  {
+    "title": "Kalkulator Split Bill & Patungan",
+    "url": "/travel/split-bill",
+    "category": "Travel & Wisata",
+    "description": "Hitung patungan tagihan restoran termasuk pajak dan service charge secara adil."
+  },
+  {
+    "title": "Kalkulator Budget Pernikahan",
+    "url": "/gaya-hidup/budget-pernikahan",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Estimasi anggaran resepsi dan vendor pernikahan sesuai standar pasar."
+  },
+  {
+    "title": "Kalkulator Jadwal Imunisasi Anak",
+    "url": "/kesehatan/jadwal-imunisasi",
+    "category": "Kesehatan & Tubuh",
+    "description": "Cek jadwal imunisasi IDAI berdasarkan tanggal lahir anak."
+  },
+  {
+    "title": "Kalkulator Akustik Ruangan (Room Modes)",
+    "url": "/gaya-hidup/akustik-ruangan",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung mode axial, tangential, dan resonansi frekuensi studio audio."
+  },
+  {
+    "title": "Kalkulator Tegangan Senar Gitar",
+    "url": "/gaya-hidup/tegangan-senar",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung lbs tension senar instrumen musik dengan presisi luthier."
+  },
+  {
+    "title": "Kalkulator Konversi Ukuran Sepatu",
+    "url": "/gaya-hidup/ukuran-sepatu",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Konversi ukuran sepatu US, UK, EU, dan JP berdasarkan panjang kaki."
+  },
+  {
+    "title": "Kalkulator HPP Konveksi & Harga Jual",
+    "url": "/bisnis/hpp-konveksi",
+    "category": "Bisnis & HRD",
+    "description": "Hitung biaya pokok produksi dan margin keuntungan konveksi tekstil."
+  },
+  {
+    "title": "Kalkulator Pola Grading Baju",
+    "url": "/bisnis/grading-baju",
+    "category": "Bisnis & HRD",
+    "description": "Hitung penambahan/pengurangan ukuran baju (S, M, L, XL, dll) dari base size dengan toleransi."
+  },
+  {
+    "title": "Kalkulator Kebutuhan Panjang Benang Rajut",
+    "url": "/gaya-hidup/benang-rajut",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Estimasi panjang dan gulungan benang rajut yang dibutuhkan untuk luas pakaian/syal."
+  },
+  {
+    "title": "Kalkulator BaZi (Four Pillars)",
+    "url": "/agama/bazi-astrologi",
+    "category": "Agama & Kultur",
+    "description": "Analisis pilar nasib (Jam, Hari, Bulan, Tahun) astrologi Tiongkok kuno."
+  },
+  {
+    "title": "Kalkulator Pembagian Daging Kurban",
+    "url": "/agama/pembagian-kurban",
+    "category": "Agama & Kultur",
+    "description": "Hitung distribusi daging kurban 1/3 shohibul, 1/3 hadiah, 1/3 fakir miskin."
+  },
+  {
+    "title": "Kalkulator Kua Number Fengshui",
+    "url": "/agama/kua-number",
+    "category": "Agama & Kultur",
+    "description": "Cari angka Kua dan elemen nasib untuk arah mata angin terbaik (Sheng Chi, Tien Yi)."
+  },
+  {
+    "title": "Kalkulator Numerologi Nama",
+    "url": "/gaya-hidup/numerologi-nama",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung Destiny, Soul Urge & Personality berdasarkan nilai huruf nama Pythagoras."
+  },
+  {
+    "title": "Kalkulator Biaya BBM Perjalanan Roadtrip",
+    "url": "/travel/biaya-bbm-perjalanan",
+    "category": "Travel & Wisata",
+    "description": "Estimasi total konsumsi BBM, uang tol, dan patungan per orang untuk roadtrip."
+  },
+  {
+    "title": "Kalkulator Pemulihan Jet-lag & Zona Waktu",
+    "url": "/travel/jet-lag-zona-waktu",
+    "category": "Travel & Wisata",
+    "description": "Hitung selisih jam dan estimasi waktu pemulihan biologis akibat jet-lag penerbangan jauh."
+  },
+  {
+    "title": "Kalkulator Kompensasi Delay Pesawat (Kemenhub)",
+    "url": "/travel/kompensasi-delay-pesawat",
+    "category": "Travel & Wisata",
+    "description": "Cek hak kompensasi penumpang (uang, makanan, hotel) sesuai durasi keterlambatan penerbangan PM 89 Tahun 2015."
+  },
+  {
+    "title": "Kalkulator Gaji & Withdraw Host Streaming",
+    "url": "/finansial/gaji-host-streaming",
+    "category": "Finansial & Uang",
+    "description": "Hitung konversi Koin/Diamonds ke Rupiah dan potongan agensi secara akurat."
+  },
+  {
+    "title": "Kalkulator Sultan Sniper PK Battle",
+    "url": "/gaya-hidup/sultan-sniper-pk",
+    "category": "Gaya Hidup & Hobi",
+    "description": "Hitung defisit koin secara real-time untuk membalikkan keadaan saat PK Battle."
+  },
+  {
+    "title": "Kalkulator Arbitrase Top-Up Koin",
+    "url": "/finansial/arbitrase-topup-koin",
+    "category": "Finansial & Uang",
+    "description": "Hitung selisih dan penghematan biaya top-up koin via web vs aplikasi."
+  },
+  {
+    "title": "Kalkulator Kerugian Arisan Gift (Recycling Loss)",
+    "url": "/finansial/kerugian-arisan-gift",
+    "category": "Finansial & Uang",
+    "description": "Hitung kerugian matematis akibat potongan platform dalam sistem lempar balik gift."
+  },
+  {
+    "title": "Kalkulator Target Harian Agency Bigo & Snack",
+    "url": "/bisnis/target-harian-agency",
+    "category": "Bisnis & HRD",
+    "description": "Pantau sisa target bulanan dan estimasi kebutuhan kuota harian untuk Host."
+  }
+]

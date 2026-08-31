@@ -1,0 +1,872 @@
+{
+  "eslint.config.mjs": {
+    "mtime": 1788190238.804214,
+    "ast_hash": "dfa1f5f6a7037bf39dc510f30b180002",
+    "semantic_hash": "dfa1f5f6a7037bf39dc510f30b180002"
+  },
+  "next.config.ts": {
+    "mtime": 1788190239.4081614,
+    "ast_hash": "9b77af189a21a7a64e4bd7a426f64176",
+    "semantic_hash": "9b77af189a21a7a64e4bd7a426f64176"
+  },
+  "package.json": {
+    "mtime": 1788200514.7339027,
+    "ast_hash": "58e258b680ccf49bc7e070d5fac43f2e",
+    "semantic_hash": "58e258b680ccf49bc7e070d5fac43f2e"
+  },
+  "postcss.config.mjs": {
+    "mtime": 1788190238.970801,
+    "ast_hash": "239f3ebf717465dc636818a1a619398d",
+    "semantic_hash": "239f3ebf717465dc636818a1a619398d"
+  },
+  "scratch/akustik-ruangan.json": {
+    "mtime": 1788200373.4183373,
+    "ast_hash": "1cc2553fdef6598a177ee170f9e9798f",
+    "semantic_hash": "1cc2553fdef6598a177ee170f9e9798f"
+  },
+  "scratch/apgar.json": {
+    "mtime": 1788196947.6083367,
+    "ast_hash": "bd5151fc0d9d28519672490596d50815",
+    "semantic_hash": "bd5151fc0d9d28519672490596d50815"
+  },
+  "scratch/arbitrase-topup-koin.json": {
+    "mtime": 1788203699.8643723,
+    "ast_hash": "fcc4ff720d0688e47f193973c3c2d58e",
+    "semantic_hash": "fcc4ff720d0688e47f193973c3c2d58e"
+  },
+  "scratch/bazi-astrologi.json": {
+    "mtime": 1788201361.894456,
+    "ast_hash": "d916514a095782f6cea326e1d2fe4133",
+    "semantic_hash": "d916514a095782f6cea326e1d2fe4133"
+  },
+  "scratch/benang-rajut.json": {
+    "mtime": 1788201361.8721611,
+    "ast_hash": "76834b474d75314de2cc5c222aa3f7e7",
+    "semantic_hash": "76834b474d75314de2cc5c222aa3f7e7"
+  },
+  "scratch/biaya-bbm-perjalanan.json": {
+    "mtime": 1788203699.746013,
+    "ast_hash": "47ae7c2ae40129cbdf71a780a0a88545",
+    "semantic_hash": "47ae7c2ae40129cbdf71a780a0a88545"
+  },
+  "scratch/bitrate-video.json": {
+    "mtime": 1788198461.3302526,
+    "ast_hash": "48928d5aed5b84a4be825cb3406edba7",
+    "semantic_hash": "48928d5aed5b84a4be825cb3406edba7"
+  },
+  "scratch/bpm-to-ms-seo.json": {
+    "mtime": 1788195371.4112241,
+    "ast_hash": "296daea7a88415a85fb4fad6ba353701",
+    "semantic_hash": "296daea7a88415a85fb4fad6ba353701"
+  },
+  "scratch/btu-ac-seo.json": {
+    "mtime": 1788194993.4892306,
+    "ast_hash": "646af5c5ea5f5079a3c73454ea41a52b",
+    "semantic_hash": "646af5c5ea5f5079a3c73454ea41a52b"
+  },
+  "scratch/budget-pernikahan.json": {
+    "mtime": 1788199648.2069447,
+    "ast_hash": "1de5d45bb1df7bbf4c539c213cd0ac12",
+    "semantic_hash": "1de5d45bb1df7bbf4c539c213cd0ac12"
+  },
+  "scratch/budget-travel-seo.json": {
+    "mtime": 1788195860.7214568,
+    "ast_hash": "c71e671592baf5b00ec9a42d0477c57b",
+    "semantic_hash": "c71e671592baf5b00ec9a42d0477c57b"
+  },
+  "scratch/crop-factor.json": {
+    "mtime": 1788199259.8060997,
+    "ast_hash": "03ecaaa8abddb4508f236a0b3818637d",
+    "semantic_hash": "03ecaaa8abddb4508f236a0b3818637d"
+  },
+  "scratch/daya-amplifier.json": {
+    "mtime": 1788200121.9631546,
+    "ast_hash": "dc726da04ec5cfda21545f891b6c880d",
+    "semantic_hash": "dc726da04ec5cfda21545f891b6c880d"
+  },
+  "scratch/discount-seo.json": {
+    "mtime": 1788192878.5028133,
+    "ast_hash": "a576cfebebb73b16f358b5bbdac90cc4",
+    "semantic_hash": "a576cfebebb73b16f358b5bbdac90cc4"
+  },
+  "scratch/dof-kamera-seo.json": {
+    "mtime": 1788195371.392518,
+    "ast_hash": "ed81e03862180f89dc4eb00b6604ebe1",
+    "semantic_hash": "ed81e03862180f89dc4eb00b6604ebe1"
+  },
+  "scratch/dosis-anak-seo.json": {
+    "mtime": 1788194149.7336116,
+    "ast_hash": "875b537d0737195e860dbf8f229019ee",
+    "semantic_hash": "875b537d0737195e860dbf8f229019ee"
+  },
+  "scratch/dump_tools.py": {
+    "mtime": 1788203632.6733098,
+    "ast_hash": "119729c9f839333583477287a60166d1",
+    "semantic_hash": "119729c9f839333583477287a60166d1"
+  },
+  "scratch/extract.js": {
+    "mtime": 1788194984.448696,
+    "ast_hash": "573344c136cbee96e7a6d207be008b75",
+    "semantic_hash": "573344c136cbee96e7a6d207be008b75"
+  },
+  "scratch/extract.py": {
+    "mtime": 1788199513.1477602,
+    "ast_hash": "322f31b88d3317b1a965b6b8ba01c808",
+    "semantic_hash": "322f31b88d3317b1a965b6b8ba01c808"
+  },
+  "scratch/extract_13.py": {
+    "mtime": 1788203706.490274,
+    "ast_hash": "54f7cd0c30af5dbbb76ffb65529926ba",
+    "semantic_hash": "54f7cd0c30af5dbbb76ffb65529926ba"
+  },
+  "scratch/extract_fallback.py": {
+    "mtime": 1788199679.5786626,
+    "ast_hash": "1a86279db23f7ef6692b6a3d66580c6c",
+    "semantic_hash": "1a86279db23f7ef6692b6a3d66580c6c"
+  },
+  "scratch/extract_names.py": {
+    "mtime": 1788202910.363243,
+    "ast_hash": "15e57927c9231360838be46f08510c66",
+    "semantic_hash": "15e57927c9231360838be46f08510c66"
+  },
+  "scratch/fcr-seo.json": {
+    "mtime": 1788194993.4348137,
+    "ast_hash": "b686fcce426ef047bd4095a1939b8801",
+    "semantic_hash": "b686fcce426ef047bd4095a1939b8801"
+  },
+  "scratch/fidyah-kifarat.json": {
+    "mtime": 1788200122.0169413,
+    "ast_hash": "aa91b39578e70f7e5ab7fbec91d8fe64",
+    "semantic_hash": "aa91b39578e70f7e5ab7fbec91d8fe64"
+  },
+  "scratch/fix_seed_12.py": {
+    "mtime": 1788203132.2254417,
+    "ast_hash": "a6ceea1d5e5fd39bc712e7e4b5e0dbc1",
+    "semantic_hash": "a6ceea1d5e5fd39bc712e7e4b5e0dbc1"
+  },
+  "scratch/gaji-host-streaming.json": {
+    "mtime": 1788203699.8267488,
+    "ast_hash": "b672d1438ab2699b5a591404eb49f254",
+    "semantic_hash": "b672d1438ab2699b5a591404eb49f254"
+  },
+  "scratch/gcs.json": {
+    "mtime": 1788196947.5918546,
+    "ast_hash": "237f2e80c9024d7d3b335bf4877450ce",
+    "semantic_hash": "237f2e80c9024d7d3b335bf4877450ce"
+  },
+  "scratch/gfr-seo.json": {
+    "mtime": 1788194149.0102482,
+    "ast_hash": "0c24ece04c340c416f73ceebcad4fcd1",
+    "semantic_hash": "0c24ece04c340c416f73ceebcad4fcd1"
+  },
+  "scratch/golongan-darah.json": {
+    "mtime": 1788199259.856508,
+    "ast_hash": "3bddbff5ed9461b84c8a59758890a560",
+    "semantic_hash": "3bddbff5ed9461b84c8a59758890a560"
+  },
+  "scratch/grading-baju.json": {
+    "mtime": 1788201361.8525991,
+    "ast_hash": "e6048e9a715c1be6999a484807c8cf88",
+    "semantic_hash": "e6048e9a715c1be6999a484807c8cf88"
+  },
+  "scratch/hpl-seo.json": {
+    "mtime": 1788193884.5712044,
+    "ast_hash": "3cc8c65762d7040313d939f255d427e6",
+    "semantic_hash": "3cc8c65762d7040313d939f255d427e6"
+  },
+  "scratch/hpp-konveksi.json": {
+    "mtime": 1788200353.1120508,
+    "ast_hash": "73226080268511d7bf2edbf515aad03b",
+    "semantic_hash": "73226080268511d7bf2edbf515aad03b"
+  },
+  "scratch/hukum-ohm.json": {
+    "mtime": 1788198782.875806,
+    "ast_hash": "df8402b6f8a8749fa0c9edf7456b89c5",
+    "semantic_hash": "df8402b6f8a8749fa0c9edf7456b89c5"
+  },
+  "scratch/infus-seo.json": {
+    "mtime": 1788194586.9852598,
+    "ast_hash": "4faa0f69d4582a64081de8044dad9c7d",
+    "semantic_hash": "4faa0f69d4582a64081de8044dad9c7d"
+  },
+  "scratch/interval-timelapse.json": {
+    "mtime": 1788199259.6088417,
+    "ast_hash": "081576df8679e9e5e72fb4aea1456931",
+    "semantic_hash": "081576df8679e9e5e72fb4aea1456931"
+  },
+  "scratch/jadwal-imunisasi.json": {
+    "mtime": 1788200345.560388,
+    "ast_hash": "c9de1e63b67e5d7c29e8dfc2246b6a56",
+    "semantic_hash": "c9de1e63b67e5d7c29e8dfc2246b6a56"
+  },
+  "scratch/jejak-karbon-seo.json": {
+    "mtime": 1788195371.3661366,
+    "ast_hash": "299307c5902d671dd49649c17e83400a",
+    "semantic_hash": "299307c5902d671dd49649c17e83400a"
+  },
+  "scratch/jet-lag-zona-waktu.json": {
+    "mtime": 1788203699.7742157,
+    "ast_hash": "6ab5dd65ac2c5ccc8d104a78a75f0b9e",
+    "semantic_hash": "6ab5dd65ac2c5ccc8d104a78a75f0b9e"
+  },
+  "scratch/kain-baju-seo.json": {
+    "mtime": 1788195860.6681488,
+    "ast_hash": "2b2947f7298cfafcde92b800f565ded0",
+    "semantic_hash": "2b2947f7298cfafcde92b800f565ded0"
+  },
+  "scratch/karvonen.json": {
+    "mtime": 1788197419.6130235,
+    "ast_hash": "a75a5f1d870b18150948651d22a424f2",
+    "semantic_hash": "a75a5f1d870b18150948651d22a424f2"
+  },
+  "scratch/kemiringan-atap-seo.json": {
+    "mtime": 1788195371.32089,
+    "ast_hash": "1a6d59ee223f5a72d8f24132e9d4a1fc",
+    "semantic_hash": "1a6d59ee223f5a72d8f24132e9d4a1fc"
+  },
+  "scratch/kerugian-arisan-gift.json": {
+    "mtime": 1788203699.8789077,
+    "ast_hash": "4dd7290b74095b866b9a0f72331ab572",
+    "semantic_hash": "4dd7290b74095b866b9a0f72331ab572"
+  },
+  "scratch/kinematika-fisika.json": {
+    "mtime": 1788198820.2723534,
+    "ast_hash": "ba4141cee3a64569c2b506a992cb0b3b",
+    "semantic_hash": "ba4141cee3a64569c2b506a992cb0b3b"
+  },
+  "scratch/kompensasi-delay-pesawat.json": {
+    "mtime": 1788203699.8010695,
+    "ast_hash": "ff405bda33bbe9a5c34ac90e5693bc03",
+    "semantic_hash": "ff405bda33bbe9a5c34ac90e5693bc03"
+  },
+  "scratch/kua-number.json": {
+    "mtime": 1788201361.9371893,
+    "ast_hash": "8854d212383f33f6a17a6a2845f0c718",
+    "semantic_hash": "8854d212383f33f6a17a6a2845f0c718"
+  },
+  "scratch/makro-nutrisi.json": {
+    "mtime": 1788196947.5831316,
+    "ast_hash": "9394492cbfa3c91ed725281c7f48907d",
+    "semantic_hash": "9394492cbfa3c91ed725281c7f48907d"
+  },
+  "scratch/masa-subur.json": {
+    "mtime": 1788196947.5720882,
+    "ast_hash": "f62118d0084adb88c9868cdc8deb978c",
+    "semantic_hash": "f62118d0084adb88c9868cdc8deb978c"
+  },
+  "scratch/molaritas-seo.json": {
+    "mtime": 1788195860.6322849,
+    "ast_hash": "f8ff27a809cefe1f526d6b84651b8e78",
+    "semantic_hash": "f8ff27a809cefe1f526d6b84651b8e78"
+  },
+  "scratch/nd-filter.json": {
+    "mtime": 1788200121.9910994,
+    "ast_hash": "f37403a83237849200fb0d27a44ae6ab",
+    "semantic_hash": "f37403a83237849200fb0d27a44ae6ab"
+  },
+  "scratch/numerologi-nama.json": {
+    "mtime": 1788203699.7185988,
+    "ast_hash": "21f45b0f26ae5696f4fc5ada19151699",
+    "semantic_hash": "21f45b0f26ae5696f4fc5ada19151699"
+  },
+  "scratch/oee-seo.json": {
+    "mtime": 1788194993.4120653,
+    "ast_hash": "5b981069f5706399b031fc7715ac6413",
+    "semantic_hash": "5b981069f5706399b031fc7715ac6413"
+  },
+  "scratch/pace-lari-seo.json": {
+    "mtime": 1788194993.472418,
+    "ast_hash": "dabad369275b78a8eb08d33236b28107",
+    "semantic_hash": "dabad369275b78a8eb08d33236b28107"
+  },
+  "scratch/pembagian-kurban.json": {
+    "mtime": 1788201361.913889,
+    "ast_hash": "34341debbd26d9c903c6b37d662aae90",
+    "semantic_hash": "34341debbd26d9c903c6b37d662aae90"
+  },
+  "scratch/pph21-seo.json": {
+    "mtime": 1788192878.7869577,
+    "ast_hash": "8275257f3994f8c817dc2e8e77d8348d",
+    "semantic_hash": "8275257f3994f8c817dc2e8e77d8348d"
+  },
+  "scratch/punnett-square.json": {
+    "mtime": 1788200888.2990863,
+    "ast_hash": "e04900bcfafc0ce71392e315bcf173c1",
+    "semantic_hash": "e04900bcfafc0ce71392e315bcf173c1"
+  },
+  "scratch/split-bill.json": {
+    "mtime": 1788199996.9667332,
+    "ast_hash": "e0bdcd402b322146fd853ca3f024e536",
+    "semantic_hash": "e0bdcd402b322146fd853ca3f024e536"
+  },
+  "scratch/stunting-seo.json": {
+    "mtime": 1788194025.9997897,
+    "ast_hash": "23ff922f26477a528b431a0b4ac8c1f3",
+    "semantic_hash": "23ff922f26477a528b431a0b4ac8c1f3"
+  },
+  "scratch/sultan-sniper-pk.json": {
+    "mtime": 1788203699.8443155,
+    "ast_hash": "a0f89feabfa2fdf00238f9ea7985d2c6",
+    "semantic_hash": "a0f89feabfa2fdf00238f9ea7985d2c6"
+  },
+  "scratch/target-harian-agency.json": {
+    "mtime": 1788203699.8993015,
+    "ast_hash": "54815565c8ca1f7420ff93df899486fc",
+    "semantic_hash": "54815565c8ca1f7420ff93df899486fc"
+  },
+  "scratch/tdee-seo.json": {
+    "mtime": 1788194993.4516609,
+    "ast_hash": "593d5ad92d06fc148d252db848401f45",
+    "semantic_hash": "593d5ad92d06fc148d252db848401f45"
+  },
+  "scratch/tegangan-senar.json": {
+    "mtime": 1788200360.3082325,
+    "ast_hash": "c9bb96f5cef2feac2c5d90e43936b943",
+    "semantic_hash": "c9bb96f5cef2feac2c5d90e43936b943"
+  },
+  "scratch/temperature-seo.json": {
+    "mtime": 1788192879.0175903,
+    "ast_hash": "c672171bab08504f6da5a57f46d003ee",
+    "semantic_hash": "c672171bab08504f6da5a57f46d003ee"
+  },
+  "scratch/turnover-rate-seo.json": {
+    "mtime": 1788195371.3490863,
+    "ast_hash": "15097f28396eeaffc32da39ffe26128d",
+    "semantic_hash": "15097f28396eeaffc32da39ffe26128d"
+  },
+  "scratch/ukuran-sepatu.json": {
+    "mtime": 1788200366.5822895,
+    "ast_hash": "470e834245002f3f5e4a6fe971713c92",
+    "semantic_hash": "470e834245002f3f5e4a6fe971713c92"
+  },
+  "scratch/update_dump_13.py": {
+    "mtime": 1788203614.8434193,
+    "ast_hash": "6a56f3b9dacc9ea07b785342556cf6a3",
+    "semantic_hash": "6a56f3b9dacc9ea07b785342556cf6a3"
+  },
+  "scratch/update_registry_12.py": {
+    "mtime": 1788202947.4078586,
+    "ast_hash": "8f0bfbfc90c0acfaa849dcfa48b97501",
+    "semantic_hash": "8f0bfbfc90c0acfaa849dcfa48b97501"
+  },
+  "scratch/update_registry_13.py": {
+    "mtime": 1788203776.174601,
+    "ast_hash": "2dbec5440b9f9d5cb4027ce8b38d37ae",
+    "semantic_hash": "2dbec5440b9f9d5cb4027ce8b38d37ae"
+  },
+  "scratch/update_seed_12.py": {
+    "mtime": 1788203076.5120935,
+    "ast_hash": "284f9dc8ea2fafe558aee08b9a09e9ee",
+    "semantic_hash": "284f9dc8ea2fafe558aee08b9a09e9ee"
+  },
+  "scratch/update_seed_13.py": {
+    "mtime": 1788203814.0370781,
+    "ast_hash": "bbdff5613fc8b4c18a3ebccd19cfdecd",
+    "semantic_hash": "bbdff5613fc8b4c18a3ebccd19cfdecd"
+  },
+  "scratch/waktu-paruh.json": {
+    "mtime": 1788200888.26909,
+    "ast_hash": "c221959f6d0107fc11d108c4d5cc6ebe",
+    "semantic_hash": "c221959f6d0107fc11d108c4d5cc6ebe"
+  },
+  "scratch/waris-islam.json": {
+    "mtime": 1788199997.0127244,
+    "ast_hash": "e9a4feb34ebaa2fd4d229893b7c49558",
+    "semantic_hash": "e9a4feb34ebaa2fd4d229893b7c49558"
+  },
+  "scratch/weton-jawa-seo.json": {
+    "mtime": 1788195860.7430558,
+    "ast_hash": "84a5235df0e60ae5e90fcb0375b67655",
+    "semantic_hash": "84a5235df0e60ae5e90fcb0375b67655"
+  },
+  "scratch/zakat-mal-seo.json": {
+    "mtime": 1788195860.6837766,
+    "ast_hash": "40b4b2d4effdb126ac3c3d1a09b5ef4f",
+    "semantic_hash": "40b4b2d4effdb126ac3c3d1a09b5ef4f"
+  },
+  "scratch/zodiak.json": {
+    "mtime": 1788199996.9925735,
+    "ast_hash": "5c6b5d221af4129988c91b138a2e71fa",
+    "semantic_hash": "5c6b5d221af4129988c91b138a2e71fa"
+  },
+  "scripts/seed.ts": {
+    "mtime": 1788203814.1895084,
+    "ast_hash": "6d32051cdc85d10fa5740e8c59cbc552",
+    "semantic_hash": "6d32051cdc85d10fa5740e8c59cbc552"
+  },
+  "src/app/[category]/[slug]/page.tsx": {
+    "mtime": 1788196573.4854128,
+    "ast_hash": "cb41f69b50bcbeaf034a886f1f3f770e",
+    "semantic_hash": "cb41f69b50bcbeaf034a886f1f3f770e"
+  },
+  "src/app/[category]/page.tsx": {
+    "mtime": 1788193544.19888,
+    "ast_hash": "d10e329d664cc6360540e19f72674d05",
+    "semantic_hash": "d10e329d664cc6360540e19f72674d05"
+  },
+  "src/app/layout.tsx": {
+    "mtime": 1788196565.6048741,
+    "ast_hash": "f2b9e162b8cd0b3db81249f04243f804",
+    "semantic_hash": "f2b9e162b8cd0b3db81249f04243f804"
+  },
+  "src/app/page.tsx": {
+    "mtime": 1788193544.3015199,
+    "ast_hash": "dd771f666f95331be1dde07bdab8603b",
+    "semantic_hash": "dd771f666f95331be1dde07bdab8603b"
+  },
+  "src/components/calculators/akustik-ruangan-calculator.tsx": {
+    "mtime": 1788200529.1116297,
+    "ast_hash": "f0d757a8a371363e8a570aa3874f33e0",
+    "semantic_hash": "f0d757a8a371363e8a570aa3874f33e0"
+  },
+  "src/components/calculators/apgar-calculator.tsx": {
+    "mtime": 1788197371.7942653,
+    "ast_hash": "7a0554d363ecf7df8964b9d35773f6bc",
+    "semantic_hash": "7a0554d363ecf7df8964b9d35773f6bc"
+  },
+  "src/components/calculators/arbitrase-topup-koin-calculator.tsx": {
+    "mtime": 1788203699.8553374,
+    "ast_hash": "1e2a7cbabe5e8ffc2f6541eeefa65b9e",
+    "semantic_hash": "1e2a7cbabe5e8ffc2f6541eeefa65b9e"
+  },
+  "src/components/calculators/bazi-astrologi-calculator.tsx": {
+    "mtime": 1788201361.8847692,
+    "ast_hash": "c687f971b25ac4d87803efeea2db758a",
+    "semantic_hash": "c687f971b25ac4d87803efeea2db758a"
+  },
+  "src/components/calculators/benang-rajut-calculator.tsx": {
+    "mtime": 1788201361.8635876,
+    "ast_hash": "31d320e536cac2f18ce9be5f5ccb456a",
+    "semantic_hash": "31d320e536cac2f18ce9be5f5ccb456a"
+  },
+  "src/components/calculators/biaya-bbm-perjalanan-calculator.tsx": {
+    "mtime": 1788203699.7365408,
+    "ast_hash": "5e7d88c287fcf21fc1c2c555f3c7af6b",
+    "semantic_hash": "5e7d88c287fcf21fc1c2c555f3c7af6b"
+  },
+  "src/components/calculators/bitrate-video-calculator.tsx": {
+    "mtime": 1788198941.983377,
+    "ast_hash": "3e88eee2a899b3d4aa37797481379842",
+    "semantic_hash": "3e88eee2a899b3d4aa37797481379842"
+  },
+  "src/components/calculators/bmi-calculator.tsx": {
+    "mtime": 1788190770.9659371,
+    "ast_hash": "0e932d7a8cdbc1b35340978bba699a2f",
+    "semantic_hash": "0e932d7a8cdbc1b35340978bba699a2f"
+  },
+  "src/components/calculators/bpm-to-ms-calculator.tsx": {
+    "mtime": 1788195371.4045823,
+    "ast_hash": "824ed1285f4d8552e639406108a4a2d4",
+    "semantic_hash": "824ed1285f4d8552e639406108a4a2d4"
+  },
+  "src/components/calculators/btu-ac-calculator.tsx": {
+    "mtime": 1788194993.48253,
+    "ast_hash": "521e187e63af3319f151849b21825838",
+    "semantic_hash": "521e187e63af3319f151849b21825838"
+  },
+  "src/components/calculators/budget-pernikahan-calculator.tsx": {
+    "mtime": 1788199648.1906738,
+    "ast_hash": "d56a8990b366bffd9cd15607ce9498bb",
+    "semantic_hash": "d56a8990b366bffd9cd15607ce9498bb"
+  },
+  "src/components/calculators/budget-travel-calculator.tsx": {
+    "mtime": 1788195860.7134616,
+    "ast_hash": "c99f89575240c92eb7c724d643b8e7e9",
+    "semantic_hash": "c99f89575240c92eb7c724d643b8e7e9"
+  },
+  "src/components/calculators/calculator-registry.ts": {
+    "mtime": 1788203793.5560634,
+    "ast_hash": "b03b491bf350034faa61e4484bbda7e4",
+    "semantic_hash": "b03b491bf350034faa61e4484bbda7e4"
+  },
+  "src/components/calculators/crop-factor-calculator.tsx": {
+    "mtime": 1788199391.014753,
+    "ast_hash": "48268fa6941c9b34be59c4646d978fa1",
+    "semantic_hash": "48268fa6941c9b34be59c4646d978fa1"
+  },
+  "src/components/calculators/daya-amplifier-calculator.tsx": {
+    "mtime": 1788200121.954435,
+    "ast_hash": "f6e77c5d1ee34aae6e8f5e74c52c7188",
+    "semantic_hash": "f6e77c5d1ee34aae6e8f5e74c52c7188"
+  },
+  "src/components/calculators/discount-calculator.tsx": {
+    "mtime": 1788192724.804015,
+    "ast_hash": "aa48671b50977616cdfde36bc2c68da5",
+    "semantic_hash": "aa48671b50977616cdfde36bc2c68da5"
+  },
+  "src/components/calculators/dof-kamera-calculator.tsx": {
+    "mtime": 1788195371.383951,
+    "ast_hash": "2ee1d6867cf8f7ff0d9c22e0a5bc21fe",
+    "semantic_hash": "2ee1d6867cf8f7ff0d9c22e0a5bc21fe"
+  },
+  "src/components/calculators/dosis-anak-calculator.tsx": {
+    "mtime": 1788194149.4314458,
+    "ast_hash": "0d8f783f1eea4fa8636952c299a1bd24",
+    "semantic_hash": "0d8f783f1eea4fa8636952c299a1bd24"
+  },
+  "src/components/calculators/fcr-calculator.tsx": {
+    "mtime": 1788194993.4265594,
+    "ast_hash": "ef95bc2a26b9b7808e95c48a4fc66d4f",
+    "semantic_hash": "ef95bc2a26b9b7808e95c48a4fc66d4f"
+  },
+  "src/components/calculators/fidyah-kifarat-calculator.tsx": {
+    "mtime": 1788200122.009617,
+    "ast_hash": "0d50c2d7ac5e5401c2411f64fc6ea221",
+    "semantic_hash": "0d50c2d7ac5e5401c2411f64fc6ea221"
+  },
+  "src/components/calculators/gaji-host-streaming-calculator.tsx": {
+    "mtime": 1788203699.8181348,
+    "ast_hash": "ea6317658b10ac363227039fa39f7404",
+    "semantic_hash": "ea6317658b10ac363227039fa39f7404"
+  },
+  "src/components/calculators/gcs-calculator.tsx": {
+    "mtime": 1788197371.6132355,
+    "ast_hash": "f42c3e0bc035712c6bdcb740485a147e",
+    "semantic_hash": "f42c3e0bc035712c6bdcb740485a147e"
+  },
+  "src/components/calculators/gfr-calculator.tsx": {
+    "mtime": 1788194135.3105867,
+    "ast_hash": "9972ddc48db6172955312e694c36c77f",
+    "semantic_hash": "9972ddc48db6172955312e694c36c77f"
+  },
+  "src/components/calculators/golongan-darah-calculator.tsx": {
+    "mtime": 1788199409.385955,
+    "ast_hash": "85ff1b6afa39117884d8ce1b26729350",
+    "semantic_hash": "85ff1b6afa39117884d8ce1b26729350"
+  },
+  "src/components/calculators/grading-baju-calculator.tsx": {
+    "mtime": 1788201361.8455894,
+    "ast_hash": "b9961d7cf0590f0d065e96753f795ebb",
+    "semantic_hash": "b9961d7cf0590f0d065e96753f795ebb"
+  },
+  "src/components/calculators/hpl-calculator.tsx": {
+    "mtime": 1788193884.3350813,
+    "ast_hash": "0b3f46d4ced6df7ef6714eafa9475310",
+    "semantic_hash": "0b3f46d4ced6df7ef6714eafa9475310"
+  },
+  "src/components/calculators/hpp-konveksi-calculator.tsx": {
+    "mtime": 1788200338.3771746,
+    "ast_hash": "008a992166b72ae486759383ecdc34ad",
+    "semantic_hash": "008a992166b72ae486759383ecdc34ad"
+  },
+  "src/components/calculators/hukum-ohm-calculator.tsx": {
+    "mtime": 1788198772.4137888,
+    "ast_hash": "b149cfc173cfd82a728adfb3225e194a",
+    "semantic_hash": "b149cfc173cfd82a728adfb3225e194a"
+  },
+  "src/components/calculators/infus-calculator.tsx": {
+    "mtime": 1788194026.127039,
+    "ast_hash": "fdc552bf625998e38cb962dab8db6c4c",
+    "semantic_hash": "fdc552bf625998e38cb962dab8db6c4c"
+  },
+  "src/components/calculators/interval-timelapse-calculator.tsx": {
+    "mtime": 1788199259.5995245,
+    "ast_hash": "cd61b6aaf80483318f7cbf8e365636fe",
+    "semantic_hash": "cd61b6aaf80483318f7cbf8e365636fe"
+  },
+  "src/components/calculators/jadwal-imunisasi-calculator.tsx": {
+    "mtime": 1788200322.9592574,
+    "ast_hash": "43e7d546e2cde1dbd600f27c66eb2776",
+    "semantic_hash": "43e7d546e2cde1dbd600f27c66eb2776"
+  },
+  "src/components/calculators/jejak-karbon-calculator.tsx": {
+    "mtime": 1788195371.358877,
+    "ast_hash": "b9ff18f6319ad7d29a2ed6b461e4415e",
+    "semantic_hash": "b9ff18f6319ad7d29a2ed6b461e4415e"
+  },
+  "src/components/calculators/jet-lag-zona-waktu-calculator.tsx": {
+    "mtime": 1788203699.764292,
+    "ast_hash": "b7d7326d6103e2aaf2251325c8820298",
+    "semantic_hash": "b7d7326d6103e2aaf2251325c8820298"
+  },
+  "src/components/calculators/kain-baju-calculator.tsx": {
+    "mtime": 1788195860.660025,
+    "ast_hash": "ae6ebc940b4f41ed5aac8fb0ddb69cca",
+    "semantic_hash": "ae6ebc940b4f41ed5aac8fb0ddb69cca"
+  },
+  "src/components/calculators/karvonen-calculator.tsx": {
+    "mtime": 1788197880.604288,
+    "ast_hash": "d88e49db20e1418a04be9b5551ee6771",
+    "semantic_hash": "d88e49db20e1418a04be9b5551ee6771"
+  },
+  "src/components/calculators/kemiringan-atap-calculator.tsx": {
+    "mtime": 1788195371.3133686,
+    "ast_hash": "21e33f2d0e82c8a06f2483465772d11e",
+    "semantic_hash": "21e33f2d0e82c8a06f2483465772d11e"
+  },
+  "src/components/calculators/kerugian-arisan-gift-calculator.tsx": {
+    "mtime": 1788203699.8718822,
+    "ast_hash": "be7f9b75e2cfc5d81ff33e10b97d2186",
+    "semantic_hash": "be7f9b75e2cfc5d81ff33e10b97d2186"
+  },
+  "src/components/calculators/kinematika-fisika-calculator.tsx": {
+    "mtime": 1788198808.0171776,
+    "ast_hash": "ad894b5a9297f56b28aa092555bdf024",
+    "semantic_hash": "ad894b5a9297f56b28aa092555bdf024"
+  },
+  "src/components/calculators/kompensasi-delay-pesawat-calculator.tsx": {
+    "mtime": 1788203699.7912083,
+    "ast_hash": "d28a282645ffa0dd92d03a4a6957aee3",
+    "semantic_hash": "d28a282645ffa0dd92d03a4a6957aee3"
+  },
+  "src/components/calculators/kpr-calculator.tsx": {
+    "mtime": 1788191554.3867073,
+    "ast_hash": "50c1047eb85857718aa5cd765b60d7a5",
+    "semantic_hash": "50c1047eb85857718aa5cd765b60d7a5"
+  },
+  "src/components/calculators/kua-number-calculator.tsx": {
+    "mtime": 1788201361.9280274,
+    "ast_hash": "f5102e18c7b1260e35f5c002abaf8f02",
+    "semantic_hash": "f5102e18c7b1260e35f5c002abaf8f02"
+  },
+  "src/components/calculators/makro-nutrisi-calculator.tsx": {
+    "mtime": 1788197371.4634225,
+    "ast_hash": "f7c14c8aa21f0536c210213122d66838",
+    "semantic_hash": "f7c14c8aa21f0536c210213122d66838"
+  },
+  "src/components/calculators/masa-subur-calculator.tsx": {
+    "mtime": 1788197336.0805638,
+    "ast_hash": "b2675a22d0caf4a2e946beae02a261d9",
+    "semantic_hash": "b2675a22d0caf4a2e946beae02a261d9"
+  },
+  "src/components/calculators/molaritas-calculator.tsx": {
+    "mtime": 1788195860.614583,
+    "ast_hash": "b9444aa3cb551e93ce71009065cca6d2",
+    "semantic_hash": "b9444aa3cb551e93ce71009065cca6d2"
+  },
+  "src/components/calculators/nd-filter-calculator.tsx": {
+    "mtime": 1788200121.980899,
+    "ast_hash": "d4a82e17c7831b1b07114ed7294bb412",
+    "semantic_hash": "d4a82e17c7831b1b07114ed7294bb412"
+  },
+  "src/components/calculators/numerologi-nama-calculator.tsx": {
+    "mtime": 1788203699.7093985,
+    "ast_hash": "256a0be23f142975688e6f98d23ad661",
+    "semantic_hash": "256a0be23f142975688e6f98d23ad661"
+  },
+  "src/components/calculators/oee-calculator.tsx": {
+    "mtime": 1788194993.4010754,
+    "ast_hash": "8e36002a0879164fe4fa1c6664e7ed06",
+    "semantic_hash": "8e36002a0879164fe4fa1c6664e7ed06"
+  },
+  "src/components/calculators/pace-lari-calculator.tsx": {
+    "mtime": 1788194993.4625342,
+    "ast_hash": "10c8e1a713a4c3889dae582ecff3f4fb",
+    "semantic_hash": "10c8e1a713a4c3889dae582ecff3f4fb"
+  },
+  "src/components/calculators/pembagian-kurban-calculator.tsx": {
+    "mtime": 1788201361.9057014,
+    "ast_hash": "75a97d78d69208661c20b08625e9948e",
+    "semantic_hash": "75a97d78d69208661c20b08625e9948e"
+  },
+  "src/components/calculators/pph21-calculator.tsx": {
+    "mtime": 1788192804.8325903,
+    "ast_hash": "274d2c4f7a630b82757f3f4201aef161",
+    "semantic_hash": "274d2c4f7a630b82757f3f4201aef161"
+  },
+  "src/components/calculators/punnett-square-calculator.tsx": {
+    "mtime": 1788198550.3882997,
+    "ast_hash": "bc649262bfdd40eab236a081eb9ae4f1",
+    "semantic_hash": "bc649262bfdd40eab236a081eb9ae4f1"
+  },
+  "src/components/calculators/split-bill-calculator.tsx": {
+    "mtime": 1788199996.95867,
+    "ast_hash": "a05e160152fc5ea907f842f6b5491d32",
+    "semantic_hash": "a05e160152fc5ea907f842f6b5491d32"
+  },
+  "src/components/calculators/stunting-calculator.tsx": {
+    "mtime": 1788194025.6571455,
+    "ast_hash": "76fcb6e51be5adc9cb9bd6017c17bad7",
+    "semantic_hash": "76fcb6e51be5adc9cb9bd6017c17bad7"
+  },
+  "src/components/calculators/sultan-sniper-pk-calculator.tsx": {
+    "mtime": 1788204033.055181,
+    "ast_hash": "8d840187a417531cd852a450b306537d",
+    "semantic_hash": "8d840187a417531cd852a450b306537d"
+  },
+  "src/components/calculators/target-harian-agency-calculator.tsx": {
+    "mtime": 1788203770.4703755,
+    "ast_hash": "b11bf9ff3cca47fdb0a5e0eb6b3af3e2",
+    "semantic_hash": "b11bf9ff3cca47fdb0a5e0eb6b3af3e2"
+  },
+  "src/components/calculators/tdee-calculator.tsx": {
+    "mtime": 1788194993.4451423,
+    "ast_hash": "76b4f421d24db548c58c50d8a4ca990f",
+    "semantic_hash": "76b4f421d24db548c58c50d8a4ca990f"
+  },
+  "src/components/calculators/tegangan-senar-calculator.tsx": {
+    "mtime": 1788200486.2019563,
+    "ast_hash": "6e882c85a7857d9623cb48ed40bbdb13",
+    "semantic_hash": "6e882c85a7857d9623cb48ed40bbdb13"
+  },
+  "src/components/calculators/temperature-calculator.tsx": {
+    "mtime": 1788192805.0485747,
+    "ast_hash": "62000bc689e5601e5d75bf9ae26a1ca4",
+    "semantic_hash": "62000bc689e5601e5d75bf9ae26a1ca4"
+  },
+  "src/components/calculators/turnover-rate-calculator.tsx": {
+    "mtime": 1788195371.3381238,
+    "ast_hash": "07772d29450b19066c5760006e824e3a",
+    "semantic_hash": "07772d29450b19066c5760006e824e3a"
+  },
+  "src/components/calculators/ukuran-sepatu-calculator.tsx": {
+    "mtime": 1788200390.278687,
+    "ast_hash": "57f23b48f2bc3e50089fc426dcc2e4cf",
+    "semantic_hash": "57f23b48f2bc3e50089fc426dcc2e4cf"
+  },
+  "src/components/calculators/waktu-paruh-calculator.tsx": {
+    "mtime": 1788198502.38374,
+    "ast_hash": "07042cb2ec1cbfe75e3ccddef465a780",
+    "semantic_hash": "07042cb2ec1cbfe75e3ccddef465a780"
+  },
+  "src/components/calculators/waris-islam-calculator.tsx": {
+    "mtime": 1788199997.0052845,
+    "ast_hash": "3f02f9ceb96a4d2005bfa9152d3073b5",
+    "semantic_hash": "3f02f9ceb96a4d2005bfa9152d3073b5"
+  },
+  "src/components/calculators/weton-jawa-calculator.tsx": {
+    "mtime": 1788195860.7331681,
+    "ast_hash": "4d2b145dfea43164d6a616fe8a19d378",
+    "semantic_hash": "4d2b145dfea43164d6a616fe8a19d378"
+  },
+  "src/components/calculators/zakat-mal-calculator.tsx": {
+    "mtime": 1788195860.6760476,
+    "ast_hash": "aceda4093f1a39c882619ea9d115cb33",
+    "semantic_hash": "aceda4093f1a39c882619ea9d115cb33"
+  },
+  "src/components/calculators/zodiak-calculator.tsx": {
+    "mtime": 1788199996.983323,
+    "ast_hash": "86f43c225629433eb91eab1c6c1c29c4",
+    "semantic_hash": "86f43c225629433eb91eab1c6c1c29c4"
+  },
+  "src/components/ui/breadcrumbs.tsx": {
+    "mtime": 1788193391.62216,
+    "ast_hash": "928cd43979fdfabec70817b0c5deda41",
+    "semantic_hash": "928cd43979fdfabec70817b0c5deda41"
+  },
+  "src/components/ui/button.tsx": {
+    "mtime": 1788190477.324708,
+    "ast_hash": "281a80cf275eb5116ac94d439f34adac",
+    "semantic_hash": "281a80cf275eb5116ac94d439f34adac"
+  },
+  "src/components/ui/calculator-wrapper.tsx": {
+    "mtime": 1788191571.1615245,
+    "ast_hash": "ca3d8c972938929a7bf67f283b6bb5a8",
+    "semantic_hash": "ca3d8c972938929a7bf67f283b6bb5a8"
+  },
+  "src/components/ui/card.tsx": {
+    "mtime": 1788190442.246139,
+    "ast_hash": "79e9f4f501d2a22253eafc6d455935e1",
+    "semantic_hash": "79e9f4f501d2a22253eafc6d455935e1"
+  },
+  "src/components/ui/chart.tsx": {
+    "mtime": 1788196616.387403,
+    "ast_hash": "f296e32c8a6e8f6c393c4d1d6c8125a0",
+    "semantic_hash": "f296e32c8a6e8f6c393c4d1d6c8125a0"
+  },
+  "src/components/ui/footer.tsx": {
+    "mtime": 1788196557.7591057,
+    "ast_hash": "11423f7b7803263bcb834b4e14998585",
+    "semantic_hash": "11423f7b7803263bcb834b4e14998585"
+  },
+  "src/components/ui/header.tsx": {
+    "mtime": 1788193462.9938388,
+    "ast_hash": "63f9ed1260aede549c8bbd57ea1da829",
+    "semantic_hash": "63f9ed1260aede549c8bbd57ea1da829"
+  },
+  "src/components/ui/input.tsx": {
+    "mtime": 1788190537.0851815,
+    "ast_hash": "9511a3f857dde1276d27e3c1b88b27cb",
+    "semantic_hash": "9511a3f857dde1276d27e3c1b88b27cb"
+  },
+  "src/components/ui/markdown-renderer.tsx": {
+    "mtime": 1788193383.7837453,
+    "ast_hash": "7dca60d55de40bf3e0d78e456318ed6c",
+    "semantic_hash": "7dca60d55de40bf3e0d78e456318ed6c"
+  },
+  "src/components/ui/output-box.tsx": {
+    "mtime": 1788190450.054039,
+    "ast_hash": "ccd871b8d6cf5b10f14dea9da64a34c5",
+    "semantic_hash": "ccd871b8d6cf5b10f14dea9da64a34c5"
+  },
+  "src/components/ui/select.tsx": {
+    "mtime": 1788191507.4147098,
+    "ast_hash": "94be74285ef96899d9e479e2a1a4dbb7",
+    "semantic_hash": "94be74285ef96899d9e479e2a1a4dbb7"
+  },
+  "src/lib/db.ts": {
+    "mtime": 1788192134.2945056,
+    "ast_hash": "541e9e2fd5aadfda394facfe838d4054",
+    "semantic_hash": "541e9e2fd5aadfda394facfe838d4054"
+  },
+  "src/lib/utils.ts": {
+    "mtime": 1788190435.3715644,
+    "ast_hash": "d9837f38cc05303254571985e3164050",
+    "semantic_hash": "d9837f38cc05303254571985e3164050"
+  },
+  "tsconfig.json": {
+    "mtime": 1788190240.443848,
+    "ast_hash": "ee17fd1c97c735e9f3564e3f5251f125",
+    "semantic_hash": "ee17fd1c97c735e9f3564e3f5251f125"
+  },
+  ".agents/prompts/flash_swarm.md": {
+    "mtime": 1788191519.3451993,
+    "ast_hash": "034e15258ac8f6ba0c46c4a502c03f33",
+    "semantic_hash": "034e15258ac8f6ba0c46c4a502c03f33"
+  },
+  ".agents/rules/brand-lexicon.md": {
+    "mtime": 1788190653.8570957,
+    "ast_hash": "37e884fcdfdd0be7c9ddb90749c3035f",
+    "semantic_hash": "37e884fcdfdd0be7c9ddb90749c3035f"
+  },
+  "AGENTS.md": {
+    "mtime": 1788190318.2920065,
+    "ast_hash": "01e8142356e15c3404e0d84c48187cd0",
+    "semantic_hash": "01e8142356e15c3404e0d84c48187cd0"
+  },
+  "CLAUDE.md": {
+    "mtime": 1788190318.297508,
+    "ast_hash": "5c27369b226fcf2be8a6cfe52224e767",
+    "semantic_hash": "5c27369b226fcf2be8a6cfe52224e767"
+  },
+  "README.md": {
+    "mtime": 1788190238.67492,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": "f15aaa42d5d299d091b1171097ea56ad"
+  },
+  "scratch/bmi-seo.md": {
+    "mtime": 1788190808.0674143,
+    "ast_hash": "afc38f07f98624cfab53df2d9efd6101",
+    "semantic_hash": "afc38f07f98624cfab53df2d9efd6101"
+  },
+  "scratch/kpr-seo.md": {
+    "mtime": 1788190787.4286032,
+    "ast_hash": "0805fce362ece4688236a35f14ff610d",
+    "semantic_hash": "0805fce362ece4688236a35f14ff610d"
+  },
+  "public/file.svg": {
+    "mtime": 1788190239.0200992,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
+  },
+  "public/globe.svg": {
+    "mtime": 1788190239.086009,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": "2aaafa6a49b6563925fe440891e32717"
+  },
+  "public/next.svg": {
+    "mtime": 1788190239.151851,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": "8e061864f388b47f33a1c3780831193e"
+  },
+  "public/vercel.svg": {
+    "mtime": 1788190239.2185063,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
+  },
+  "public/window.svg": {
+    "mtime": 1788190239.2739115,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": "a2760511c65806022ad20adf74370ff3"
+  }
+}

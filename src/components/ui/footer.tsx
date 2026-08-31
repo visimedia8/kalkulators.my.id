@@ -37,8 +37,10 @@ export async function Footer() {
         
         {/* Kolom 1: Category Hubs */}
         <div className="flex flex-col gap-4">
-          <div className="flex items-center gap-2 text-primary font-display font-bold text-lg mb-2">
-            <Calculator className="w-5 h-5 text-accent" />
+          <div className="flex items-center gap-2 text-primary font-display font-bold text-lg mb-2 group">
+            <div className="w-6 h-6 rounded-md bg-gradient-to-br from-accent to-[#45A29E] flex items-center justify-center shadow-[0_0_10px_rgba(99,102,241,0.3)] group-hover:shadow-[0_0_15px_rgba(99,102,241,0.5)] transition-all">
+              <Calculator className="w-3.5 h-3.5 text-white" />
+            </div>
             <span>Kalkulators.my.id</span>
           </div>
           <p className="text-secondary text-sm mb-2">
@@ -78,7 +80,7 @@ export async function Footer() {
           <h4 className="font-semibold text-primary mb-2 mt-1 lg:mt-0">Informasi Legal</h4>
           <ul className="flex flex-col gap-2">
             <li>
-              <Link href="/about" className="text-secondary text-sm hover:text-accent transition-colors">
+              <Link href="/tentang" className="text-secondary text-sm hover:text-accent transition-colors">
                 Tentang Kami
               </Link>
             </li>
