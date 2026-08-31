@@ -1,0 +1,64 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Category {
+  id          String       @id @default(cuid())
+  slug        String       @unique
+  name        String
+  description String?
+  icon        String?
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  calculators Calculator[]
+}
+
+model Calculator {
+  id          String        @id @default(cuid())
+  slug        String        @unique // e.g., 'kpr', no 'kalkulator-' prefix
+  name        String
+  description String?
+  categoryId  String
+  category    Category      @relation(fields: [categoryId], references: [id])
+  content     ContentBlock?
+  sponsorship Sponsorship?
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+
+  @@index([categoryId])
+}
+
+model ContentBlock {
+  id             String     @id @default(cuid())
+  calculatorId   String     @unique
+  calculator     Calculator @relation(fields: [calculatorId], references: [id], onDelete: Cascade)
+  h1Title        String
+  definitionalH2 String? // Markdown or HTML
+  variablesH2    String? // Markdown or HTML
+  actionableH3   String? // Markdown or HTML
+  booleanFaqH4   String? // JSON string containing Q&A array for FAQPage Schema
+  faqJsonLd      String? // Actual stringified application/ld+json script
+  updatedAt      DateTime   @updatedAt
+}
+
+model Sponsorship {
+  id           String     @id @default(cuid())
+  calculatorId String     @unique
+  calculator   Calculator @relation(fields: [calculatorId], references: [id], onDelete: Cascade)
+  sponsorName  String
+  bannerUrl    String
+  targetUrl    String
+  isActive     Boolean    @default(true)
+  expiresAt    DateTime?
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+}

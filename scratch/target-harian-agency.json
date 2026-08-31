@@ -1,0 +1,9 @@
+{
+  "slug": "target-harian-agency",
+  "h1Title": "Kalkulator Target Harian Agency Bigo & Snack Video",
+  "definitionalH2": "Apa Itu Kalkulator Target Harian Agency?",
+  "variablesH2": "Parameter Teknis & Variabel Perhitungan Target",
+  "actionableH3": "Cara Mencapai Target Beans Secara Presisi",
+  "booleanFaqH4": "Apakah Perhitungan Ini Sesuai dengan Standar Industri Live Streaming?",
+  "faqJsonLd": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara memastikan target harian tercapai dengan akurat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Anda dapat memastikan pencapaian dengan memasukkan data terkini ke dalam kalkulator ini secara real-time. Sistem akan menghitung kekurangan secara presisi dan terkalibrasi berdasarkan standar industri agency.\"\n      }\n    }\n  ]\n}\n</script>"
+}

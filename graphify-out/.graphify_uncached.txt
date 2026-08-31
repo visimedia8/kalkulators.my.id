@@ -1,0 +1,12 @@
+E:\general workspace\kalkulators.my.id\.agents\prompts\flash_swarm.md
+E:\general workspace\kalkulators.my.id\.agents\rules\brand-lexicon.md
+E:\general workspace\kalkulators.my.id\AGENTS.md
+E:\general workspace\kalkulators.my.id\CLAUDE.md
+E:\general workspace\kalkulators.my.id\README.md
+E:\general workspace\kalkulators.my.id\scratch\bmi-seo.md
+E:\general workspace\kalkulators.my.id\scratch\kpr-seo.md
+E:\general workspace\kalkulators.my.id\public\file.svg
+E:\general workspace\kalkulators.my.id\public\globe.svg
+E:\general workspace\kalkulators.my.id\public\next.svg
+E:\general workspace\kalkulators.my.id\public\vercel.svg
+E:\general workspace\kalkulators.my.id\public\window.svg

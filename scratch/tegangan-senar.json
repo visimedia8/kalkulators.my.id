@@ -1,0 +1,9 @@
+{
+  "slug": "tegangan-senar",
+  "h1Title": "Kalkulator Tegangan Senar Gitar: Hitung Presisi Tension Standar Luthier",
+  "definitionalH2": "Apa Itu Tegangan Senar (String Tension) dalam Parameter Teknis Luthier?",
+  "variablesH2": "Parameter Teknis Utama: Pengaruh Frekuensi, Scale Length, dan Unit Weight",
+  "actionableH3": "Cara Menggunakan Kalkulator Tegangan Senar untuk Setup Instrumen yang Akurat",
+  "booleanFaqH4": "Apakah Mengubah Scale Length Mempengaruhi Tegangan Senar Secara Real-Time?",
+  "faqJsonLd": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Mengubah Scale Length Mempengaruhi Tegangan Senar Secara Real-Time?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Berdasarkan standar industri, panjang skala (scale length) berdampak langsung terhadap tegangan. Saat Anda memperpanjang scale length namun tetap mempertahankan parameter teknis frekuensi yang sama, tegangan senar akan meningkat secara signifikan guna mencapai presisi nada yang akurat.\"\n      }\n    }\n  ]\n}\n</script>"
+}

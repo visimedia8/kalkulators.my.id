@@ -1,0 +1,9 @@
+{
+  "slug": "ukuran-sepatu",
+  "h1Title": "Kalkulator Konversi Ukuran Sepatu Internasional Akurat",
+  "definitionalH2": "Apa Itu Konversi Ukuran Sepatu Internasional?",
+  "variablesH2": "Parameter Teknis Konversi Ukuran Sepatu",
+  "actionableH3": "Cara Presisi Mengukur Panjang Kaki",
+  "booleanFaqH4": "Apakah Ukuran Sepatu Pria dan Wanita Berbeda?",
+  "faqJsonLd": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"Apakah Ukuran Sepatu Pria dan Wanita Berbeda?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Ya, ukuran sepatu pria dan wanita menggunakan parameter teknis dan standar industri yang berbeda, sehingga presisi pengukuran harus disesuaikan dengan jenis kelamin. Konversi US dan UK memiliki offset kalibrasi yang berbeda secara spesifik untuk pria dan wanita.\"}}]}</script>"
+}

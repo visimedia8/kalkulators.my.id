@@ -1,0 +1,9 @@
+{
+  "slug": "akustik-ruangan",
+  "h1Title": "Kalkulator Akustik Ruangan: Hitung Mode Resonansi Ruang Audio",
+  "definitionalH2": "Apa Itu Room Modes dalam Akustik Ruangan?",
+  "variablesH2": "Dimensi Ruang (Panjang, Lebar, Tinggi) dan Pengaruhnya Terhadap Mode Axial",
+  "actionableH3": "Cara Menghitung Frekuensi Fundamental Resonansi Ruangan Anda",
+  "booleanFaqH4": "Apakah Kecepatan Suara Mempengaruhi Perhitungan Akustik Ruangan?",
+  "faqJsonLd": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Apakah Kecepatan Suara Mempengaruhi Perhitungan Akustik Ruangan?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Ya, kecepatan suara sangat mempengaruhi mode resonansi ruangan. Pada kalkulator ini, kecepatan suara diasumsikan konstan di angka 343 meter per detik (m/s), yang mewakili perambatan gelombang suara di udara pada suhu ruangan normal (sekitar 20°C).\"}}]}</script>"
+}

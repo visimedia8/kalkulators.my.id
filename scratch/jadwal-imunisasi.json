@@ -1,0 +1,9 @@
+{
+  "slug": "jadwal-imunisasi",
+  "h1Title": "Kalkulator Jadwal Imunisasi Anak IDAI",
+  "definitionalH2": "Apa Itu Kalkulator Jadwal Imunisasi Anak?",
+  "variablesH2": "Daftar Vaksin Berdasarkan Usia Anak (0-18 Bulan)",
+  "actionableH3": "Cara Menggunakan Kalkulator Imunisasi Anak",
+  "booleanFaqH4": "Apakah Aman Jika Jadwal Imunisasi Anak Terlambat?",
+  "faqJsonLd": "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Apakah aman jika jadwal imunisasi anak terlambat?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Keterlambatan imunisasi masih bisa dilanjutkan (catch-up immunization) sesuai panduan IDAI. Tidak perlu diulang dari awal, namun segera konsultasikan dengan dokter anak untuk menyesuaikan jadwal.\"}}]}</script>"
+}
