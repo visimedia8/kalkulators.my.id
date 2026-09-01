@@ -382,5 +382,29 @@
     "url": "/bisnis/target-harian-agency",
     "category": "Bisnis & HRD",
     "description": "Pantau sisa target bulanan dan estimasi kebutuhan kuota harian untuk Host."
+  },
+  {
+    "title": "Kalkulator Denda Pajak (PKB)",
+    "url": "/otomotif/denda-pajak-kendaraan",
+    "category": "Otomotif & Kendaraan",
+    "description": "Hitung total denda pajak mobil/motor mati bertahun-tahun dan SWDKLLJ secara akurat."
+  },
+  {
+    "title": "Kalkulator Over Kredit Kendaraan",
+    "url": "/otomotif/over-kredit-kendaraan",
+    "category": "Otomotif & Kendaraan",
+    "description": "Hitung nilai kompensasi wajar untuk over kredit mobil atau motor agar tidak rugi."
+  },
+  {
+    "title": "Kalkulator Gear Ratio Motor",
+    "url": "/otomotif/gear-ratio-motor",
+    "category": "Otomotif & Kendaraan",
+    "description": "Hitung persentase tarikan akselerasi vs top speed sebelum modifikasi ukuran gir motor."
+  },
+  {
+    "title": "Kalkulator Volumetrik Kargo",
+    "url": "/bisnis/berat-volumetrik-kargo",
+    "category": "Bisnis & HRD",
+    "description": "Hitung berat volumetrik paket besar untuk estimasi ongkos kirim ekspedisi darat/udara."
   }
 ]

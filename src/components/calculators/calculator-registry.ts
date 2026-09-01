@@ -90,4 +90,10 @@ export const CALCULATOR_REGISTRY: Record<string, ComponentType<any>> = {
   'arbitrase-topup-koin': dynamic(() => import('./arbitrase-topup-koin-calculator').then(mod => mod.ArbitraseTopupKoinCalculator)),
   'kerugian-arisan-gift': dynamic(() => import('./kerugian-arisan-gift-calculator').then(mod => mod.KerugianArisanGiftCalculator)),
   'target-harian-agency': dynamic(() => import('./target-harian-agency-calculator').then(mod => mod.TargetHarianAgencyCalculator)),
+
+  // Batch 14 (OLX / Marketplace Utilities)
+  'denda-pajak-kendaraan': dynamic(() => import('./pajak-mati-calculator').then(mod => mod.PajakMatiCalculator)),
+  'over-kredit-kendaraan': dynamic(() => import('./over-kredit-calculator').then(mod => mod.OverKreditCalculator)),
+  'gear-ratio-motor': dynamic(() => import('./gear-ratio-calculator').then(mod => mod.GearRatioCalculator)),
+  'berat-volumetrik-kargo': dynamic(() => import('./volumetrik-kargo-calculator').then(mod => mod.VolumetrikKargoCalculator)),
 };
