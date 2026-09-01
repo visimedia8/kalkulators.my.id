@@ -9,6 +9,11 @@ interface MarkdownRendererProps {
   content: string;
 }
 
+const generateId = (children: any) => {
+  const text = React.Children.toArray(children).join("");
+  return text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)+/g, "");
+};
+
 export function MarkdownRenderer({ content }: MarkdownRendererProps) {
   return (
     <div className="w-full text-secondary leading-relaxed">
@@ -16,11 +21,15 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
         remarkPlugins={[remarkMath, remarkGfm]}
         rehypePlugins={[rehypeKatex]}
         components={{
-          h2: ({ node, ...props }) => (
-            <h2 className="text-2xl font-bold font-display text-primary mt-10 mb-4 tracking-tight" {...props} />
+          h2: ({ node, children, ...props }) => (
+            <h2 id={generateId(children)} className="text-2xl font-bold font-display text-primary mt-10 mb-4 tracking-tight scroll-mt-24" {...props}>
+              {children}
+            </h2>
           ),
-          h3: ({ node, ...props }) => (
-            <h3 className="text-xl font-semibold font-display text-primary mt-8 mb-3" {...props} />
+          h3: ({ node, children, ...props }) => (
+            <h3 id={generateId(children)} className="text-xl font-semibold font-display text-primary mt-8 mb-3 scroll-mt-24" {...props}>
+              {children}
+            </h3>
           ),
           h4: ({ node, ...props }) => (
             <h4 className="text-lg font-medium font-sans text-primary mt-6 mb-2" {...props} />
