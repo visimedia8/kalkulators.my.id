@@ -106,4 +106,13 @@ export const CALCULATOR_REGISTRY: Record<string, ComponentType<any>> = {
 
   // Batch 16 (Properti & Elektronik)
   'bphtb-notaris': dynamic(() => import('./bphtb-notaris-calculator').then(mod => mod.BphtbNotarisCalculator)),
+  'listrik-kosan': dynamic(() => import('./listrik-kosan-calculator').then(mod => mod.ListrikKosanCalculator)),
+  'kubikasi-kayu': dynamic(() => import('./kubikasi-kayu-calculator').then(mod => mod.KubikasiKayuCalculator)),
+  'plafon-rumah': dynamic(() => import('./plafon-rumah-calculator').then(mod => mod.PlafonRumahCalculator)),
+  'depresiasi-iphone': dynamic(() => import('./depresiasi-iphone-calculator').then(mod => mod.DepresiasiIphoneCalculator)),
+  'psu-pc': dynamic(() => import('./psu-pc-calculator').then(mod => mod.PsuPcCalculator)),
+  'volume-aquarium': dynamic(() => import('./volume-aquarium-calculator').then(mod => mod.VolumeAquariumCalculator)),
+  'kapasitas-aki': dynamic(() => import('./kapasitas-aki-calculator').then(mod => mod.KapasitasAkiCalculator)),
+  'margin-thrifting': dynamic(() => import('./margin-thrifting-calculator').then(mod => mod.MarginThriftingCalculator)),
+  'komisi-marketplace': dynamic(() => import('./komisi-marketplace-calculator').then(mod => mod.KomisiMarketplaceCalculator)),
 };

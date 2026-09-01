@@ -962,6 +962,19 @@ async function main() {
   await seedContent(kerugianArisanGiftCalc.id, 'scratch/kerugian-arisan-gift.json');
   await seedContent(targetHarianAgencyCalc.id, 'scratch/target-harian-agency.json');
 
+  // -- BATCH 14 NEW CALCULATORS --
+  const depresiasiIphoneCalc = await prisma.calculator.upsert({
+    where: { slug: 'depresiasi-iphone' },
+    update: {},
+    create: {
+      slug: 'depresiasi-iphone',
+      categoryId: catBisnis.id,
+      name: 'Kalkulator Harga iPhone Bekas',
+      description: 'Hitung depresiasi dan valuasi harga iPhone bekas (umur & battery health) di pasar B2B.',
+    },
+  });
+  await seedContent(depresiasiIphoneCalc.id, 'scratch/seo-depresiasi-iphone.json');
+
   console.log("Seeding complete!");
 }
 
