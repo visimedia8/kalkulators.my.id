@@ -12,14 +12,28 @@ datasource db {
 }
 
 model Category {
-  id          String       @id @default(cuid())
-  slug        String       @unique
+  id          String                @id @default(cuid())
+  slug        String                @unique
   name        String
   description String?
   icon        String?
-  createdAt   DateTime     @default(now())
-  updatedAt   DateTime     @updatedAt
+  createdAt   DateTime              @default(now())
+  updatedAt   DateTime              @updatedAt
   calculators Calculator[]
+  content     CategoryContentBlock?
+}
+
+model CategoryContentBlock {
+  id             String   @id @default(cuid())
+  categoryId     String   @unique
+  category       Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  h1Title        String?
+  definitionalH2 String? // Markdown or HTML
+  variablesH2    String? // Markdown or HTML
+  actionableH3   String? // Markdown or HTML
+  booleanFaqH4   String? // JSON string containing Q&A array for FAQPage Schema
+  faqJsonLd      String? // Actual stringified application/ld+json script
+  updatedAt      DateTime @updatedAt
 }
 
 model Calculator {

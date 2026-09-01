@@ -3,6 +3,7 @@ import { prisma } from "@/lib/db";
 import Link from "next/link";
 import { Metadata } from "next";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
+import { MarkdownRenderer } from "@/components/ui/markdown-renderer";
 
 export const revalidate = 86400; // Cache for 24 hours (Cloudflare D1 guardrail)
 
@@ -22,6 +23,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   
   const category = await prisma.category.findUnique({
     where: { slug: categorySlug },
+    include: { content: true }
   });
 
   if (!category) {
@@ -29,7 +31,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   return {
-    title: `Kumpulan Kalkulator ${category.name} Online`,
+    title: category.content?.h1Title || `Kumpulan Kalkulator ${category.name} Online`,
     description: category.description || `Daftar kalkulator lengkap untuk kategori ${category.name}.`,
   };
 }
@@ -42,7 +44,8 @@ export default async function CategoryHubPage({ params }: PageProps) {
     include: {
       calculators: {
         orderBy: { name: 'asc' }
-      }
+      },
+      content: true
     },
   });
 
@@ -61,7 +64,9 @@ export default async function CategoryHubPage({ params }: PageProps) {
         <Breadcrumbs items={breadcrumbs} />
         <div className="border-b border-border pb-8">
           <h1 className="text-4xl md:text-5xl font-display font-bold text-primary mb-4">
-            Kategori: <span className="text-accent">{category.name}</span>
+            {category.content?.h1Title || (
+              <>Kategori: <span className="text-accent">{category.name}</span></>
+            )}
           </h1>
           {category.description && (
             <p className="text-secondary text-lg max-w-[800px]">
@@ -92,6 +97,32 @@ export default async function CategoryHubPage({ params }: PageProps) {
         <div className="w-full text-center py-24">
           <p className="text-secondary text-lg">Belum ada kalkulator di kategori ini.</p>
         </div>
+      )}
+
+      {/* SEO CONTENT BLOCKS BELOW THE FOLD */}
+      {category.content && (
+        <article className="w-full max-w-[800px] mx-auto mt-12 flex flex-col gap-10">
+          {category.content.definitionalH2 && (
+            <MarkdownRenderer content={category.content.definitionalH2} />
+          )}
+
+          {category.content.variablesH2 && (
+            <MarkdownRenderer content={category.content.variablesH2} />
+          )}
+
+          {category.content.actionableH3 && (
+            <MarkdownRenderer content={category.content.actionableH3} />
+          )}
+
+          {category.content.booleanFaqH4 && (
+            <MarkdownRenderer content={category.content.booleanFaqH4} />
+          )}
+
+          {/* INJECT JSON-LD FAQ SCHEMA IF AVAILABLE */}
+          {category.content.faqJsonLd && (
+            <div dangerouslySetInnerHTML={{ __html: category.content.faqJsonLd }} />
+          )}
+        </article>
       )}
     </main>
   );
