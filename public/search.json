@@ -436,5 +436,11 @@
     "url": "/bisnis/valuasi-bisnis",
     "category": "Bisnis & HRD",
     "description": "Hitung harga jual wajar sebuah usaha UMKM menggunakan pendekatan Aset dan Multiple Profit (Goodwill)."
+  },
+  {
+    "title": "Kalkulator BPHTB & Biaya Notaris",
+    "url": "/properti/bphtb-notaris",
+    "category": "Properti & Teknik",
+    "description": "Hitung total biaya jual-beli properti: BPHTB pembeli (5%), PPh final penjual (2.5%), dan honor PPAT/Notaris (AJB)."
   }
 ]

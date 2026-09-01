@@ -103,4 +103,7 @@ export const CALCULATOR_REGISTRY: Record<string, ComponentType<any>> = {
   'hpp-katering-mbg': dynamic(() => import('./hpp-katering-mbg-calculator').then(mod => mod.HppKateringMbgCalculator)),
   'shu-koperasi': dynamic(() => import('./shu-koperasi-calculator').then(mod => mod.ShuKoperasiCalculator)),
   'valuasi-bisnis': dynamic(() => import('./valuasi-bisnis-calculator').then(mod => mod.ValuasiBisnisCalculator)),
+
+  // Batch 16 (Properti & Elektronik)
+  'bphtb-notaris': dynamic(() => import('./bphtb-notaris-calculator').then(mod => mod.BphtbNotarisCalculator)),
 };
