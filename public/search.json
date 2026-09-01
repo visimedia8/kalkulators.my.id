@@ -406,5 +406,35 @@
     "url": "/bisnis/berat-volumetrik-kargo",
     "category": "Bisnis & HRD",
     "description": "Hitung berat volumetrik paket besar untuk estimasi ongkos kirim ekspedisi darat/udara."
+  },
+  {
+    "title": "Kalkulator ROI Franchise F&B",
+    "url": "/bisnis/roi-franchise-fb",
+    "category": "Bisnis & HRD",
+    "description": "Hitung Payback Period (BEP) dan laba bersih dari buka kemitraan Es Krim, Kopi, atau F&B lainnya."
+  },
+  {
+    "title": "Kalkulator Kemitraan Minimarket",
+    "url": "/bisnis/kemitraan-minimarket",
+    "category": "Bisnis & HRD",
+    "description": "Proyeksi Passive Income bulanan dan royalty fee bertingkat untuk investasi gerai minimarket."
+  },
+  {
+    "title": "Kalkulator HPP Katering MBG",
+    "url": "/bisnis/hpp-katering-mbg",
+    "category": "Bisnis & HRD",
+    "description": "Simulasi Food Cost dan margin untuk vendor katering Program Makan Bergizi Gratis (MBG)."
+  },
+  {
+    "title": "Kalkulator Pembagian SHU Koperasi",
+    "url": "/bisnis/shu-koperasi",
+    "category": "Bisnis & HRD",
+    "description": "Hitung otomatis jatah Sisa Hasil Usaha berdasarkan Jasa Modal dan Jasa Anggota (Transaksi)."
+  },
+  {
+    "title": "Kalkulator Valuasi Bisnis (Takeover)",
+    "url": "/bisnis/valuasi-bisnis",
+    "category": "Bisnis & HRD",
+    "description": "Hitung harga jual wajar sebuah usaha UMKM menggunakan pendekatan Aset dan Multiple Profit (Goodwill)."
   }
 ]

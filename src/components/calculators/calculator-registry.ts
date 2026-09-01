@@ -96,4 +96,11 @@ export const CALCULATOR_REGISTRY: Record<string, ComponentType<any>> = {
   'over-kredit-kendaraan': dynamic(() => import('./over-kredit-calculator').then(mod => mod.OverKreditCalculator)),
   'gear-ratio-motor': dynamic(() => import('./gear-ratio-calculator').then(mod => mod.GearRatioCalculator)),
   'berat-volumetrik-kargo': dynamic(() => import('./volumetrik-kargo-calculator').then(mod => mod.VolumetrikKargoCalculator)),
+
+  // Batch 15 (Bisnis Franchise & Koperasi MBG)
+  'roi-franchise-fb': dynamic(() => import('./roi-franchise-fb-calculator').then(mod => mod.RoiFranchiseFbCalculator)),
+  'kemitraan-minimarket': dynamic(() => import('./kemitraan-minimarket-calculator').then(mod => mod.KemitraanMinimarketCalculator)),
+  'hpp-katering-mbg': dynamic(() => import('./hpp-katering-mbg-calculator').then(mod => mod.HppKateringMbgCalculator)),
+  'shu-koperasi': dynamic(() => import('./shu-koperasi-calculator').then(mod => mod.ShuKoperasiCalculator)),
+  'valuasi-bisnis': dynamic(() => import('./valuasi-bisnis-calculator').then(mod => mod.ValuasiBisnisCalculator)),
 };
