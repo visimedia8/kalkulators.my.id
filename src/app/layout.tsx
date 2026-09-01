@@ -23,7 +23,11 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kalkulators.my.id - Pusat Kalkulator Indonesia",
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || "https://kalkulators.my.id"),
+  title: {
+    default: "Kalkulators.my.id - Pusat Kalkulator Indonesia",
+    template: "%s | Kalkulators.my.id",
+  },
   description: "Platform kalkulator utilitas terpadu untuk industri, finansial, medis, dan gaya hidup di Indonesia.",
 };
 
