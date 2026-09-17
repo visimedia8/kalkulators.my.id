@@ -14,7 +14,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 1,
     },
     {
-      url: `${baseUrl}/about`,
+      url: `${baseUrl}/tentang`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
