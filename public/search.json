@@ -442,5 +442,59 @@
     "url": "/properti/bphtb-notaris",
     "category": "Properti & Teknik",
     "description": "Hitung total biaya jual-beli properti: BPHTB pembeli (5%), PPh final penjual (2.5%), dan honor PPAT/Notaris (AJB)."
+  },
+  {
+    "title": "Kalkulator Patungan Listrik Kosan",
+    "url": "/properti/listrik-kosan",
+    "category": "Properti & Teknik",
+    "description": "Hitung split bill token listrik secara adil berdasarkan kepemilikan alat elektronik (AC, Dispenser) tiap kamar."
+  },
+  {
+    "title": "Kalkulator Kubikasi Kayu",
+    "url": "/properti/kubikasi-kayu",
+    "category": "Properti & Teknik",
+    "description": "Hitung jumlah batang dan eceran harga kayu (usuk, balok, reng) dalam 1 meter kubik (m3)."
+  },
+  {
+    "title": "Kalkulator Material Plafon Rumah",
+    "url": "/properti/plafon-rumah",
+    "category": "Properti & Teknik",
+    "description": "Estimasi kebutuhan lembar Gypsum, PVC, dan batang hollow berdasarkan ukuran ruangan."
+  },
+  {
+    "title": "Kalkulator Harga iPhone Bekas",
+    "url": "/elektronik/depresiasi-iphone",
+    "category": "Elektronik & Hobi",
+    "description": "Taksir harga wajar jual/beli iPhone second berdasarkan umur pemakaian dan persentase Battery Health (BH)."
+  },
+  {
+    "title": "Kalkulator Kapasitas PSU (Power Supply)",
+    "url": "/elektronik/psu-pc",
+    "category": "Elektronik & Hobi",
+    "description": "Hitung TDP total (Watt) komponen rakitan PC Anda untuk menentukan PSU minimal yang aman."
+  },
+  {
+    "title": "Kalkulator Volume Air Aquarium",
+    "url": "/elektronik/volume-aquarium",
+    "category": "Elektronik & Hobi",
+    "description": "Hitung volume liter air, berat beban kaca, dan kapasitas aman populasi ikan hias Anda."
+  },
+  {
+    "title": "Kalkulator Dimensi & Kapasitas Aki (Ampere-Hour)",
+    "url": "/otomotif/kapasitas-aki",
+    "category": "Otomotif & Kendaraan",
+    "description": "Hitung batas aman penambahan beban listrik (audio, biled) terhadap kapasitas aki mobil/motor."
+  },
+  {
+    "title": "Kalkulator Margin Thrifting & Flipping",
+    "url": "/bisnis/margin-thrifting",
+    "category": "Bisnis & HRD",
+    "description": "Hitung HPP barang bekas (harga beli + laundry + reparasi) untuk menentukan harga jual (markup)."
+  },
+  {
+    "title": "Kalkulator Komisi Rekber / Marketplace",
+    "url": "/bisnis/komisi-marketplace",
+    "category": "Bisnis & HRD",
+    "description": "Hitung potongan admin dan bebas ongkir jika transaksi Cash On Delivery (COD) dialihkan ke link e-commerce."
   }
 ]

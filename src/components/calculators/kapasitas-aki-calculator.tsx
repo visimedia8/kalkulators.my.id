@@ -96,7 +96,7 @@ export function KapasitasAkiCalculator() {
           
           {Number(result.bebanPersentase) > 50 && (
             <div className="p-2 bg-danger/10 text-danger text-xs rounded border border-danger/20 mt-2">
-              ⚠️ Beban tambahan Anda sangat besar (>50% kapasitas aki). Dinamo Ampere (Alternator) standar mungkin tidak sanggup mengisi aki tepat waktu. Rawan tekor/mogok! Disarankan upgrade alternator atau tambah aki kedua.
+              ⚠️ Beban tambahan Anda sangat besar (&gt;50% kapasitas aki). Dinamo Ampere (Alternator) standar mungkin tidak sanggup mengisi aki tepat waktu. Rawan tekor/mogok! Disarankan upgrade alternator atau tambah aki kedua.
             </div>
           )}
         </div>
